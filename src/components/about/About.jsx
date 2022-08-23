@@ -37,7 +37,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Amante de la lectura , programación y las nuevas tecnlogias,
+            Amante de la lectura , Programación y las Nuevas Tecnlogias,
             enfocado en adquirir y desarrollar nuevos conocimientos para el
             trabajo diario, me motiva el trabajo en equipo y aportar mi granito
             de arena en cumplir con objetivos marcados para solucionar los
