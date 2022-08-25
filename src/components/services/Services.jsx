@@ -5,7 +5,6 @@ const Services = () => {
     return (
         <section id='services'>
             services
-            
         </section>
     );
 };
