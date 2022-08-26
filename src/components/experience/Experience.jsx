@@ -1,17 +1,15 @@
 import React from "react";
 import "./Experience.css";
-
-import {IoLogoHtml5} from 'react-icons/io'
-import {SiCss3} from 'react-icons/si'
-import {IoLogoJavascript} from 'react-icons/io'
-import {SiReact} from 'react-icons/si'
-import {FaBootstrap} from 'react-icons/fa'
-import {FaNodeJs} from 'react-icons/fa' 
-import {DiMongodb} from 'react-icons/di'
-import {SiPhp} from 'react-icons/si'
-import {SiPostgresql}from 'react-icons/si'
-import {SiMysql} from 'react-icons/si'
-
+import { IoLogoHtml5 } from "react-icons/io";
+import { SiCss3 } from "react-icons/si";
+import { IoLogoJavascript } from "react-icons/io";
+import { SiReact } from "react-icons/si";
+import { FaBootstrap } from "react-icons/fa";
+import { FaNodeJs } from "react-icons/fa";
+import { DiMongodb } from "react-icons/di";
+import { SiPhp } from "react-icons/si";
+import { SiPostgresql } from "react-icons/si";
+import { SiMysql } from "react-icons/si";
 
 const Experience = () => {
   return (
