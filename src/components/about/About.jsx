@@ -22,30 +22,28 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FiAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>1+ Years Working</small>
+              <h5>Experiencia</h5>
+              <small>6 meses</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>200+ Worlwide</small>
+              <h5>Clientes</h5>
+              <small>Proximamente</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <h5>Proyectos</h5>
+              <small>5 Completeto de Academlo</small>
             </article>
           </div>
           <p>
-            Amante de la lectura , Programación y las Nuevas Tecnlogias,
-            enfocado en adquirir y desarrollar nuevos conocimientos para el
-            trabajo diario, me motiva el trabajo en equipo y aportar mi granito
-            de arena en cumplir con objetivos marcados para solucionar los
-            problemas del ambito laboral.
+          Amante de la lectura, Programación y las Nuevas Tecnologías, enfocado en adquirir y desarrollar nuevos conocimientos
+           para el trabajo diario, me motiva el trabajo en equipo y aportar mi granito de arena 
+           cumplir con objetivos marcados para solucionar los problemas del ámbito laboral. Orientado a resultado, con comunicación y escucha activa y flexibilidad para adaptarme a las situaciones del día a día.
           </p>
 
           <a href="#contact" className="btn btn-primary">
-            Let's Talk
+            Hablemos
           </a>
         </div>
       </div>

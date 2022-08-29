@@ -14,8 +14,8 @@ import { SiMysql } from "react-icons/si";
 const Experience = () => {
   return (
     <section id="experience">
-      <h5>What Skills I Have</h5>
-      <h2>My Experience</h2>
+      <h5>Mis Habilidades</h5>
+      <h2>My Experiencia</h2>
 
       <div className="container experience__container">
         <div className="experience__frontend">
