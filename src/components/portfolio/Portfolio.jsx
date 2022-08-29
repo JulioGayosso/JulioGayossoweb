@@ -21,9 +21,9 @@ const data = [
     {
       id: 2,
       Image: IMG2,
-      title: "Appi Wheater",
+      title: "Pokedex",
       github: "https://github.com",
-      demo: "https://fabulous-taffy-36b453.netlify.app/",
+      demo: "https://imaginative-hotteok-c7783b.netlify.app/",
     },
 
     {

@@ -14,7 +14,8 @@ const Contact = () => {
 
     emailjs.sendForm('service_1wp0f68', 'template_zlbf82u', form.current, 'sF-Phoq5I20a1kzWF')
     
-    .target.reset()
+    e.target.reset()
+    alert("¡¡ Gracias por contactarme, pronto me comunico con usted!!!!!")
     
       .then((result) => {
           console.log(result.text);
