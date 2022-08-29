@@ -50,8 +50,8 @@ const Contact = () => {
                 </article>
             </div>
 
-{/*         end of contact options
- */}
+                         {/* end of contact options */}
+
            <form ref={form} onSubmit={sendEmail}>
              <input type="text" name='name' placeholder='Your Full Name' required/>
              <input type="email" name='email'placeholder='email@sudominio.com' required />
